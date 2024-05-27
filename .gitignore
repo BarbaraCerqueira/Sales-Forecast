@@ -1,0 +1,9 @@
+/.venv
+train.csv
+holiday_events.csv
+oil.csv
+sample_submission.csv
+stores.csv
+test.csv
+transactions.csv
+holidays_events.csv
